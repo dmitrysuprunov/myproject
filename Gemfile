@@ -29,6 +29,14 @@ gem 'spring',        group: :development
 # Using HAML
 gem 'haml'
 
+gem 'better_errors'
+
+gem 'devise'
+
+gem 'simple_form'
+
+# gem 'activeadmin', '~> 0.6.3'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
